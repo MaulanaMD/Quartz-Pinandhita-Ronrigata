@@ -3,7 +3,7 @@ title: Pinandhita 論理型
 ---
 <p align=center>
 	<img style="height=50%; width=50%; object-fit=contain"
-	src="https://pinandhitaronrigata.my.id/00-Meta/02-Attachmen/logo-v2.png">	
+	src="https://pinandhitaronrigata.my.id/00-Meta/02-Attachments/logo-v2.png">	
 </p>
 
 ---
