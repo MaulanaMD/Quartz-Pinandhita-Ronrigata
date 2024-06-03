@@ -7,8 +7,6 @@ title: Pinandhita 論理型
 	src="https://pinandhitaronrigata.my.id/00-Meta/02-Attachments/logo-v2.png">	
 </p>
 
----
-
 # English
 
 Welcome! We're a translation service for Japanese, English, and Indonesian language for Japanese/Otaku culture related works. Other than that, we also opened our service to more generalized needs for translation service, like translating article, journals and publications, etc.. Our goal is to provide an affordable pricing with an "exceptionally baller" translation.
@@ -31,10 +29,10 @@ Laman berbahasa Indonesia akan ditambahkan setelah laman-laman berbahasa Inggris
 
 ## Main Page(s):
 
-- [[10.01 Pinandhita Ronrigata - What We Offers|What We Offers]] - Our products that are available to commission. (TBA)
-- [[10.02 Pinandhita Ronrigata - Commission Guidelines|Commission Guidelines]] - What we can do per products of commission - mostly for doujinshi/manga commissions. (TBA)
-- [[10.03 Pinandhita Ronrigata - Pricing and Timeslot|Pricing]] - Pricing details.
-- [[10.04 Pinandhita Ronrigata - Payments and Contacts|Payment and Contacts]] - Where to contact us for commission - or just asking around! - and how to pay. (TBA)
+- [[10.01 What We Offers|What We Offers]] - Our products that are available to commission. (TBA)
+- [[10.02  Commission Guidelines|Commission Guidelines]] - What we can do per products of commission - mostly for doujinshi/manga commissions. (TBA)
+- [[10.03 Pricing and Timeslot|Pricing]] - Pricing details.
+- [[10.04 Payments and Contacts|Payment and Contacts]] - Where to contact us for commission - or just asking around! - and how to pay. (TBA)
 ## Releases (Only in English):
 
 - [[21.01 Artworks and Webcomics]]
