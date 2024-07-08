@@ -1,7 +1,7 @@
 ---
 title: Pinandhita 論理型 Releases - LUV DOPE
 tags:
-  - pinandhita/releases
+  - releases
   - blue-archive
 ---
 You can read this release on Mangadex [here](https://mangadex.org/title/d74b381c-5ab5-4a1b-9d73-e060a18183e0/blue-archive-luv-dope).
@@ -26,16 +26,14 @@ This is our first release of full doujinshi translation.
 
 Much of the format is experimental. From fonts to credits page, basically anything that we added on to the doujinshi can be said as an experiment (we already have internal readme on what fonts to use in our releases, but even that has been changed/added in the time between the release and the making of this release page). It is, after all, a first - you need to start somewhere.
 
-For a first time release, the overall difficulty of working on this isn't that bad. The only real issues we had is trying to make and stick to a streamlined workflow between our members. Other than that, as we've said on the credits page, the raw quality isn't that great, but that in itself is fixable & workable.
+For a first time release, the overall difficulty of working on this isn't that bad. The only real issues we had was trying to make and stick to a streamlined workflow between our members. Other than that, as we've said on the credits page, the raw quality isn't that great, but that in itself is fixable & workable.
 
 Mika is a qt. I will spoil her so much 24/7 if she's real. - Thea
-
----
 
 ## Raws Source
 
 - Official Raws/Where to Buy Raws: https://www.melonbooks.co.jp/detail/detail.php?product_id=2051233
-- Raws: https://exhentai.org/g/2762527/ef72489c00/ (physical scans, thanks gdufs2016)
+- Raws: https://exhentai.org/g/2762527/ef72489c00/ (physical scans, uploaded by gdufs2016)
 
 ## Credits
 
