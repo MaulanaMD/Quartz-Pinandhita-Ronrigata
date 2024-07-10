@@ -32,11 +32,11 @@ Laman berbahasa Indonesia akan ditambahkan setelah laman-laman berbahasa Inggris
 - [[10.01 What We Offers|What We Offers]] - Our products that are available to commission. (TBA)
 - [[10.02 Commission Guidelines|Commission Guidelines]] - What we can do per products of commission - mostly for doujinshi/manga commissions. (TBA)
 - [[10.03 Pricing and Duration|Pricing]] - Pricing details.
-- [[10.04 Payments and Contacts|Payment and Contacts]] - Where to contact us for commission - or just asking around! - and how to pay. (TBA)
+- [[10.04 Contacts and Payment Methods|Payment and Contacts]] - Where to contact us for commission - or just asking around! - and how to pay. (TBA)
 ## Releases (Only in English):
 
 - [[21.01 Artworks and Webcomics]]
-- [[LUV DOPE|42.02 Blue Archive - LUV DOPE]]
+- [[22.01 LUV DOPE|42.02 Blue Archive - LUV DOPE]]
 
 ---
 
