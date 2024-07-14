@@ -1,46 +1,34 @@
 ---
 title: Pinandhita 論理型
 ---
-<p align=center>
-	<img
-	style="height: 50%;width: 50%; object-fit: contain"
-	src="https://pinandhitaronrigata.my.id/00-Meta/02-Attachments/logo-v2.png">	
-</p>
+<p align="center"> <a>
+<img src="https://pinandhitaronrigata.my.id/00-Meta/02-Attachments/logo-v2.png" width="300"/>
+</a> </p>
 
-# English
+# Welcome!
 
-Welcome! We're a translation service for Japanese, English, and Indonesian language for Japanese/Otaku culture related works. Other than that, we also opened our service to more generalized needs for translation service, like translating article, journals and publications, etc.. Our goal is to provide an affordable pricing with an "exceptionally baller" translation.
+We're a freelance translation circle for Japanese-English-Indonesian language that specialize in ACG-related works. We're not really bound by a certain fandom, but right now we're just doing [[10.01 What We Offers#What is a doujinshi, you ask?|doujinshi]] from series/fandom our members are interested in.
 
-Please seek the related subpages below for further details on how to commission us and our rules based on what service you need.
+This website serve as a home for our activities, including commission details and releases. If you want to make a commission to us, check [[index#Commission Guides]] to see the details.
 
----
+Alternatively, you can support our translation effort via Ko-fi instead, which is available [here](https://ko-fi.com/pronrigata).
 
-# Bahasa Indonesia
+## Page Index
 
-Selamat datang! Kami adalah penyedia jasa penerjemahan untuk bahasa Jepang, Inggris, dan Indonesia untuk karya yang berkaitan dengan kultur Jejepangan/Otaku. Selain itu, kami juga menyediakan jasa atas produk yang lebih umum sebagaimana jasa penerjemahan, seperti menerjemahkan artikel, jurnal dan publikasi, dll.. Target kami adalah menyediakan harga jasa yang terjangkau dengan hasil penerjemahan yang top markotop.
+### Commission Guides
 
-Silahkan mengecek sublaman terkait di bawah untuk detail lebih lanjut akan bagaimana cara memesan dan syarat-syarat komisi penerjemahan sesuai layanan yang anda butuhkan.
-
-Laman berbahasa Indonesia akan ditambahkan setelah laman-laman berbahasa Inggris selesai dibuat.
-
----
-
-# Index for Pinandhita 論理型
-
-## Main Page(s):
-
-- [[10.01 What We Offers|What We Offers]] - Our products that are available to commission. (TBA)
-- [[10.02 Commission Guidelines|Commission Guidelines]] - What we can do per products of commission - mostly for doujinshi/manga commissions. (TBA)
+- [[10.01 What We Offers|What We Offers]] - Our products that are available to commission.
+- [[10.02 Commission Guidelines|Commission Guidelines]] - What we can do per products of commission.
 - [[10.03 Pricing and Duration|Pricing]] - Pricing details.
-- [[10.04 Contacts and Payment Methods|Payment and Contacts]] - Where to contact us for commission - or just asking around! - and how to pay. (TBA)
-## Releases (Only in English):
+- [[10.04 Contacts and Payment Methods|Payment and Contacts]] - Where to contact us for commission - or just asking around! - and how to pay.
+
+### Releases
 
 - [[21.01 Artworks and Webcomics]]
-- [[22.01 LUV DOPE|42.02 Blue Archive - LUV DOPE]]
+- [[22.01 LUV DOPE]]
+- [[22.02 HifuAzu Daisuki]]
 
----
+## Social Media
 
-# To-dos
-
-- Adjusting website elements
-- Filling TBA's articles
+- [Facebook](https://www.facebook.com/pinandhita.ronrigata/)
+- [Twitter/X](https://twitter.com/p_ronrigata)
