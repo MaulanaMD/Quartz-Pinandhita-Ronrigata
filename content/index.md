@@ -5,6 +5,10 @@ title: Pinandhita 論理型
 <img src="https://pinandhitaronrigata.my.id/00-Meta/02-Attachments/logo-v2.png" width="300"/>
 </a> </p>
 
+# Commission Status
+
+We're open for commission! Check ***Commission Guide*** below for details. Send us email at [p.ronrigata@gmail.com](mailto:p.ronrigata@gmail.com) to commission a translation.
+
 # Welcome!
 
 We're a freelance translation circle for Japanese-English-Indonesian language that specialize in ACG-related works. We're not really bound by a certain fandom, but right now we're just doing [[10.01 What We Offers#What is a doujinshi, you ask?|doujinshi]] from series/fandom our members are interested in.
@@ -19,7 +23,7 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 
 - [[10.01 What We Offers|What We Offers]] - Our products that are available to commission.
 - [[10.02 Commission Guidelines|Commission Guidelines]] - What we can do per products of commission.
-- [[10.03 Pricing and Duration|Pricing]] - Pricing details.
+- [[10.03 Pricing and Duration|Pricing and Duration]] - Pricing details.
 - [[10.04 Contacts and Payment Methods|Payment and Contacts]] - Where to contact us for commission - or just asking around! - and how to pay.
 
 ### Releases
@@ -27,6 +31,7 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 - [[21.01 Artworks and Webcomics]]
 - [[22.01 LUV DOPE]]
 - [[22.02 HifuAzu Daisuki]]
+- [[22.03 CHOCOLATE & CREAM]]
 
 ## Social Media
 
