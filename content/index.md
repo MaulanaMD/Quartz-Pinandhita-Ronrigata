@@ -32,8 +32,11 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 - [[22.01 LUV DOPE]]
 - [[22.02 HifuAzu Daisuki]]
 - [[22.03 CHOCOLATE & CREAM]]
+- [[22.04 Touhikou]]
+- [[22.05 Oshioki no Jikan]]
 
 ## Social Media
 
 - [Facebook](https://www.facebook.com/pinandhita.ronrigata/)
-- [Twitter/X](https://twitter.com/p_ronrigata)
+- [Twitter/X](https://twitter.com/p_ronrigata) - Inactive
+- [Discord Server invite link](https://discord.gg/SCCQDAx7h8)
