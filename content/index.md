@@ -22,7 +22,7 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 ### Commission Guides
 
 - [[10.01 What We Offers|What We Offers]] - Our products that are available to commission.
-- [[10.02 Commission Guidelines|Commission Guidelines]] - What we can do per products of commission.
+- [[10.02 Commission Guidelines|Commission Guidelines]] - What we can do per products of commission. - *updated with new examples and explanation!*
 - [[10.03 Pricing and Duration|Pricing and Duration]] - Pricing details.
 - [[10.04 Contacts and Payment Methods|Payment and Contacts]] - Where to contact us for commission - or just asking around! - and how to pay.
 
