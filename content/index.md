@@ -7,7 +7,7 @@ title: Pinandhita 論理型
 
 # Commission Status
 
-We're open for commission! Check ***Commission Guide*** below for details. Send us email at [p.ronrigata@gmail.com](mailto:p.ronrigata@gmail.com) to commission a translation.
+We're open for commission! Check ***Commission Guide*** below for details. Send us email at p.ronrigata@gmail.com to commission a translation.
 
 # Welcome!
 
@@ -34,6 +34,8 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 - [[22.03 CHOCOLATE & CREAM]]
 - [[22.04 Touhikou]]
 - [[22.05 Oshioki no Jikan]]
+- [[22.06 Rakukaki Vol. 11]]
+- [[22.07 Mika to H Suru Hon]]
 
 ## Social Media
 
