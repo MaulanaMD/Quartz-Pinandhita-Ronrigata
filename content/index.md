@@ -37,6 +37,7 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 - [[22.06 Rakukaki Vol. 11]]
 - [[22.07 Mika to H Suru Hon]]
 - [[22.08 Himitsu no Kinshin Sex Daisuki Kyoudai]]
+- [[22.09 Futari wa Kanbi na Yoru no Hihou]]
 
 ## Social Media
 
