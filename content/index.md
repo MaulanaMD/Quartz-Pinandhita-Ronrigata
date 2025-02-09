@@ -28,7 +28,7 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 
 ### Releases
 
-- [[21.01 Artworks and Webcomics]]
+- [[21.01 Artworks and Webcomics]] - not really posting much right now.
 - [[22.01 LUV DOPE]]
 - [[22.02 HifuAzu Daisuki]]
 - [[22.03 CHOCOLATE & CREAM]]
@@ -38,6 +38,7 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 - [[22.07 Mika to H Suru Hon]]
 - [[22.08 Himitsu no Kinshin Sex Daisuki Kyoudai]]
 - [[22.09 Futari wa Kanbi na Yoru no Hihou]]
+- [[22.10 Seinaru Sono ni wa Bonyuu ga Saku]]
 
 ## Social Media
 
