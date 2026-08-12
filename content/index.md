@@ -2,7 +2,7 @@
 title: Pinandhita 論理型
 ---
 <p align="center"> <a>
-<img src="https://pinandhitaronrigata.my.id/attach/logo-v2.png" width="300"/>
+<img src="https://pinandhitaronrigata.my.id/attach/pinandhita-logo.png" width="300"/>
 </a> </p>
 
 # Commission Status
@@ -10,9 +10,6 @@ title: Pinandhita 論理型
 ~~We're open for commission! Check ***Commission Guide*** below for details. Send us email at p.ronrigata@gmail.com to commission a translation.~~
 
 Commission is closed until all of our backlog (the one on our discord) is cleared.
-
-> [!info] Promo!
-> We are having 20% discount on translation for C107 books! This offer is available until the end of February 2026.
 
 # Welcome!
 
@@ -54,9 +51,10 @@ This website serve as a home for our activities, including commission details an
 - [[22.22 Sakurafubuki Mau Koro Jou]]
 - [[22.23 Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko 2]] - *commission*
 - [[22.24 Sirius, Futari 227-gou Tokubetsu Class Hen Joukan]] - *commission*
-- [[22.25 Saoyaku Yamato Takeru ga Onna Eirei-tachi to Ecchi Shimakuru Hon]] - *commission* - ***new!***
-- [[22.26 Aimai Identity]] - ***new!***
-- [[22.27 Toriko no Hito]] - *commission* - ***new!***
+- [[22.25 Saoyaku Yamato Takeru ga Onna Eirei-tachi to Ecchi Shimakuru Hon]]
+- [[22.26 Aimai Identity]]
+- [[22.27 Toriko no Hito]] - *commission*
+- [[22.30 Kougekiteki Houshigata LOVE RELINK]] - *commission* - ***new!***
 
 Related:
 
@@ -73,8 +71,6 @@ Related:
 
 ## Social Media
 
-- [Facebook](https://www.facebook.com/pinandhita.ronrigata/)
-- [Twitter/X](https://twitter.com/p_ronrigata) - Inactive
 - [Discord Server invite link](https://discord.gg/SCCQDAx7h8)
 
 ## Notes
